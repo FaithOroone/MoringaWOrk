@@ -1,0 +1,22 @@
+h1 {
+	color:#1da1f2;
+	text-align: center;
+}
+h2 {
+	color: green;
+	font-style:italic;
+	text-align: center;
+	font-size: 38;
+	font-stretch: 10;
+	font-kerning: 12;
+}
+p {
+	font-family: sans-serif;
+}
+ul {
+	line-height: 40px
+}
+body {
+ 	background-color: white;
+
+ }
